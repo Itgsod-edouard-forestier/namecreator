@@ -1,17 +1,9 @@
+Namecreator
+Det här ett program som skapar ett unikt användarnamn genom att ta ditt förnamn och efternamn och kombinera dem.
+Den tar de två första bokstäverna från förnamnet och de fem första från efternamnet, sen sätter den ihop dem.
+Namnen tas från en users.csv fil.
 
-# first project
+Exempel: Sven Andersson --> svanders
 
-
-## fork
-
-Ni ska forka det här projektet
-
-## clone
-
-Öppna det sedan i pycharm
-
-## push
-
-Skapa er egen version av nick generator och pusha upp denna
 
 
